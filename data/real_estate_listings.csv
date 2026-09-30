@@ -1,0 +1,251 @@
+property_id,address,neighborhood,property_type,latitude,longitude,bedrooms,bathrooms,square_feet,year_built,price_per_sqft,listing_price,monthly_rent,hoa_monthly,condition_score
+PROP-TX-1079,1915 Lamar Blvd,Downtown / Central,Multi-Family (Duplex/Triplex),30.288328,-97.724555,4,3.0,4190,2024,531,2224890,17935,0,5
+PROP-TX-1212,2855 Barton Springs Rd,Downtown / Central,Multi-Family (Duplex/Triplex),30.269891,-97.736676,6,3.0,3898,2000,533,2077634,17659,180,2
+PROP-TX-1213,729 Guadalupe St,Downtown / Central,Multi-Family (Duplex/Triplex),30.245394,-97.766928,6,4.0,3770,1988,533,2009410,15312,320,5
+PROP-TX-1031,7514 Riverside Dr,Westlake Hills Suburbs,Single Family Home,30.310371,-97.818569,5,3.5,2849,2018,673,1917377,16557,0,2
+PROP-TX-1045,9347 Cedar Ln,Westlake Hills Suburbs,Single Family Home,30.310495,-97.797092,4,2.0,2832,2013,656,1857792,16989,0,3
+PROP-TX-1074,5926 Congress Ave,Westlake Hills Suburbs,Multi-Family (Duplex/Triplex),30.276302,-97.786483,6,3.0,3173,2003,563,1786399,15871,180,4
+PROP-TX-1062,7358 Barton Springs Rd,South Lamar / Barton Hills,Multi-Family (Duplex/Triplex),30.234864,-97.768016,6,3.0,3920,2011,429,1681680,13774,180,5
+PROP-TX-1219,6717 Lamar Blvd,Westlake Hills Suburbs,Multi-Family (Duplex/Triplex),30.274786,-97.802352,6,4.0,3273,1997,513,1679049,15121,0,4
+PROP-TX-1022,2630 Lamar Blvd,Downtown / Central,Single Family Home,30.258089,-97.746453,4,3.0,3028,2016,552,1671456,14723,0,4
+PROP-TX-1228,3995 Cedar Ln,East Austin Arts District,Multi-Family (Duplex/Triplex),30.244536,-97.709039,4,4.0,3790,2012,426,1614540,13780,0,5
+PROP-TX-1249,6514 Oak St,East Austin Arts District,Single Family Home,30.250844,-97.71556,4,2.5,3120,2001,515,1606800,13344,0,3
+PROP-TX-1169,2503 Guadalupe St,South Lamar / Barton Hills,Multi-Family (Duplex/Triplex),30.239028,-97.774585,6,4.0,3481,2021,461,1604741,12547,180,2
+PROP-TX-1154,8580 Barton Springs Rd,East Austin Arts District,Single Family Home,30.284818,-97.742125,4,2.0,3397,2014,463,1572811,11149,0,5
+PROP-TX-1129,3217 Guadalupe St,South Congress / SoCo,Single Family Home,30.261178,-97.760556,4,2.0,2852,2021,544,1551488,12424,0,5
+PROP-TX-1126,5176 Lamar Blvd,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.256545,-97.759705,6,3.0,4158,2019,372,1546776,11532,180,5
+PROP-TX-1242,5728 Cedar Ln,Domain Tech District,Multi-Family (Duplex/Triplex),30.390624,-97.740476,4,3.0,3691,2016,417,1539147,12599,50,4
+PROP-TX-1110,8718 Cedar Ln,East Austin Arts District,Multi-Family (Duplex/Triplex),30.28416,-97.718434,6,3.0,3856,1995,399,1538544,14473,320,4
+PROP-TX-1006,611 Barton Springs Rd,Westlake Hills Suburbs,Single Family Home,30.315899,-97.806265,3,3.0,2823,2017,543,1532889,13749,0,4
+PROP-TX-1044,6949 Oak St,South Lamar / Barton Hills,Multi-Family (Duplex/Triplex),30.256013,-97.760396,4,4.0,3219,2021,463,1490397,13186,180,5
+PROP-TX-1165,3238 Cedar Ln,Downtown / Central,Multi-Family (Duplex/Triplex),30.27148,-97.757713,6,4.0,3481,1986,425,1479425,10788,320,5
+PROP-TX-1235,3816 Lamar Blvd,Westlake Hills Suburbs,Single Family Home,30.298001,-97.827147,4,3.0,2176,2012,655,1425280,9478,0,5
+PROP-TX-1040,9367 Congress Ave,Downtown / Central,Multi-Family (Duplex/Triplex),30.267152,-97.753899,6,4.0,2774,1989,513,1423062,12978,320,4
+PROP-TX-1220,9945 Oak St,Westlake Hills Suburbs,Multi-Family (Duplex/Triplex),30.284999,-97.807031,4,3.0,2591,1995,546,1414686,13048,0,5
+PROP-TX-1102,3665 Guadalupe St,Downtown / Central,Single Family Home,30.268181,-97.718607,3,3.0,2502,1991,560,1401120,12154,0,5
+PROP-TX-1160,6368 Cedar Ln,Domain Tech District,Multi-Family (Duplex/Triplex),30.380718,-97.72136,4,3.0,3409,1990,403,1373827,12566,320,4
+PROP-TX-1131,3222 Congress Ave,East Austin Arts District,Multi-Family (Duplex/Triplex),30.279633,-97.714886,4,4.0,2932,2021,467,1369244,12949,0,5
+PROP-TX-1098,6451 Riverside Dr,East Austin Arts District,Multi-Family (Duplex/Triplex),30.282074,-97.699225,6,3.0,3346,2013,407,1361822,9985,50,3
+PROP-TX-1183,471 Lamar Blvd,East Austin Arts District,Multi-Family (Duplex/Triplex),30.286134,-97.698833,6,3.0,4024,2008,337,1356088,11613,180,4
+PROP-TX-1114,5565 Oak St,Downtown / Central,Single Family Home,30.280952,-97.756177,5,3.5,2956,2006,457,1350892,12421,0,5
+PROP-TX-1076,9259 Lamar Blvd,South Congress / SoCo,Single Family Home,30.254187,-97.727438,4,2.0,3130,1997,430,1345900,12778,0,4
+PROP-TX-1238,7340 Cedar Ln,Downtown / Central,Multi-Family (Duplex/Triplex),30.282118,-97.759928,4,3.0,2378,2001,565,1343570,10169,180,3
+PROP-TX-1168,9580 Oak St,Downtown / Central,Multi-Family (Duplex/Triplex),30.255181,-97.764824,4,3.0,2780,1992,482,1339960,9209,180,3
+PROP-TX-1064,8712 Guadalupe St,South Lamar / Barton Hills,Multi-Family (Duplex/Triplex),30.246967,-97.760355,6,4.0,3109,2018,425,1321325,10565,0,3
+PROP-TX-1247,8843 Cedar Ln,Westlake Hills Suburbs,Townhouse,30.297089,-97.800217,2,2.5,2083,1990,633,1318539,10939,320,3
+PROP-TX-1240,1693 Congress Ave,East Austin Arts District,Single Family Home,30.261373,-97.696679,3,2.0,3175,1993,410,1301750,10661,0,2
+PROP-TX-1245,3720 Barton Springs Rd,Downtown / Central,Multi-Family (Duplex/Triplex),30.250377,-97.724597,4,4.0,2380,2007,545,1297100,10484,180,4
+PROP-TX-1171,756 Barton Springs Rd,Domain Tech District,Multi-Family (Duplex/Triplex),30.391933,-97.723022,6,4.0,3268,1999,392,1281056,8379,0,4
+PROP-TX-1230,5305 Congress Ave,Domain Tech District,Single Family Home,30.394084,-97.717971,3,3.5,2798,1999,457,1278686,8596,0,4
+PROP-TX-1163,1646 Oak St,Downtown / Central,Multi-Family (Duplex/Triplex),30.275088,-97.748125,6,4.0,2877,2006,444,1277388,11060,180,2
+PROP-TX-1017,897 Guadalupe St,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.248295,-97.766978,4,4.0,3237,2018,393,1272141,11905,0,4
+PROP-TX-1071,6880 Guadalupe St,Westlake Hills Suburbs,Single Family Home,30.299603,-97.817354,3,2.5,2185,2013,579,1265115,10155,0,4
+PROP-TX-1061,4159 Cedar Ln,Domain Tech District,Multi-Family (Duplex/Triplex),30.386886,-97.701256,4,3.0,3942,2009,320,1261440,10812,180,4
+PROP-TX-1151,6003 Guadalupe St,Downtown / Central,Townhouse,30.246586,-97.721522,2,2.5,2001,2006,622,1244622,9439,50,4
+PROP-TX-1104,5433 Guadalupe St,Downtown / Central,Townhouse,30.283447,-97.759053,3,2.0,1946,1985,639,1243494,11405,0,5
+PROP-TX-1107,6369 Cedar Ln,Westlake Hills Suburbs,Single Family Home,30.306331,-97.80639,5,2.5,2075,2004,597,1238775,9478,0,5
+PROP-TX-1106,957 Congress Ave,South Congress / SoCo,Single Family Home,30.242603,-97.764985,3,2.5,2666,2014,460,1226360,11007,0,3
+PROP-TX-1078,5460 Cedar Ln,North Loop / Hyde Park,Single Family Home,30.300074,-97.737556,4,3.0,3221,2002,378,1217538,8969,0,5
+PROP-TX-1035,9273 Oak St,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.297339,-97.73851,6,4.0,3311,1985,364,1205204,9338,320,4
+PROP-TX-1227,8768 Congress Ave,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.235315,-97.74839,4,3.0,3122,1988,383,1195726,11234,180,4
+PROP-TX-1012,8858 Barton Springs Rd,Riverside Metro Area,Single Family Home,30.237407,-97.712184,3,3.5,3213,1991,371,1192023,8701,0,3
+PROP-TX-1088,3994 Barton Springs Rd,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.327075,-97.750361,4,3.0,3081,2005,386,1189266,9034,50,4
+PROP-TX-1111,849 Congress Ave,Domain Tech District,Single Family Home,30.382248,-97.720163,4,3.5,2524,2015,468,1181232,7843,0,5
+PROP-TX-1033,5221 Congress Ave,Downtown / Central,Single Family Home,30.29175,-97.733888,3,3.5,2438,2019,480,1170240,9335,0,5
+PROP-TX-1067,3122 Cedar Ln,North Loop / Hyde Park,Single Family Home,30.329292,-97.711601,3,3.5,3077,2005,379,1166183,8019,0,4
+PROP-TX-1014,9892 Congress Ave,Downtown / Central,Townhouse,30.287056,-97.761874,3,2.5,1816,1994,642,1165872,7887,320,4
+PROP-TX-1073,8910 Barton Springs Rd,Downtown / Central,Multi-Family (Duplex/Triplex),30.258403,-97.739297,6,3.0,2778,1986,418,1161204,9958,320,5
+PROP-TX-1216,4382 Congress Ave,Downtown / Central,Multi-Family (Duplex/Triplex),30.254556,-97.741003,6,3.0,2336,2009,495,1156320,9581,180,3
+PROP-TX-1250,842 Cedar Ln,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.227975,-97.729429,6,3.0,2838,2016,405,1149390,8980,0,5
+PROP-TX-1038,1923 Barton Springs Rd,Downtown / Central,Townhouse,30.287187,-97.764614,2,2.0,1804,1988,637,1149148,8000,0,5
+PROP-TX-1083,1227 Congress Ave,Domain Tech District,Single Family Home,30.418522,-97.705302,4,2.5,2471,1999,459,1134189,8052,0,5
+PROP-TX-1201,8537 Guadalupe St,Westlake Hills Suburbs,Single Family Home,30.314227,-97.78177,5,2.0,2210,2009,513,1133730,9397,0,3
+PROP-TX-1133,6516 Oak St,Domain Tech District,Multi-Family (Duplex/Triplex),30.393319,-97.704588,6,3.0,3284,2006,343,1126412,9411,180,4
+PROP-TX-1139,5789 Riverside Dr,Westlake Hills Suburbs,Townhouse,30.292996,-97.823086,2,2.0,1749,1991,639,1117611,8221,0,5
+PROP-TX-1029,7216 Barton Springs Rd,North Loop / Hyde Park,Single Family Home,30.300175,-97.73166,3,2.5,3156,1991,354,1117224,8822,0,3
+PROP-TX-1089,3736 Guadalupe St,South Congress / SoCo,Townhouse,30.226962,-97.736058,3,2.5,2052,1998,541,1110132,9471,50,4
+PROP-TX-1178,5730 Lamar Blvd,South Congress / SoCo,Townhouse,30.267564,-97.733005,2,2.0,2082,1993,533,1109706,10092,180,5
+PROP-TX-1222,3703 Barton Springs Rd,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.258831,-97.731995,4,4.0,3017,2007,365,1101205,9513,180,4
+PROP-TX-1204,1319 Congress Ave,South Congress / SoCo,Single Family Home,30.231034,-97.742106,4,2.5,2823,2007,385,1086855,8671,0,4
+PROP-TX-1199,8817 Cedar Ln,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.302989,-97.747258,4,3.0,2817,1998,384,1081728,9644,0,4
+PROP-TX-1140,1706 Congress Ave,Domain Tech District,Single Family Home,30.407102,-97.730103,5,2.0,2438,2014,443,1080034,7569,0,5
+PROP-TX-1167,2231 Lamar Blvd,East Austin Arts District,Multi-Family (Duplex/Triplex),30.251315,-97.701999,6,4.0,3004,1999,359,1078436,8276,0,4
+PROP-TX-1181,5120 Oak St,Domain Tech District,Single Family Home,30.426171,-97.727817,3,2.5,2231,2010,483,1077573,9399,0,5
+PROP-TX-1020,2698 Riverside Dr,South Congress / SoCo,Single Family Home,30.221522,-97.766429,3,3.5,2103,2003,510,1072530,9212,0,4
+PROP-TX-1179,7034 Guadalupe St,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.260151,-97.689642,6,4.0,3723,2022,287,1068501,8660,320,5
+PROP-TX-1161,4918 Cedar Ln,Domain Tech District,Single Family Home,30.414049,-97.737893,3,3.0,2864,2008,372,1065408,7757,0,4
+PROP-TX-1246,7848 Guadalupe St,Domain Tech District,Multi-Family (Duplex/Triplex),30.417411,-97.726521,6,4.0,2840,2013,374,1062160,9807,0,4
+PROP-TX-1241,7994 Lamar Blvd,South Lamar / Barton Hills,Townhouse,30.226067,-97.778816,3,2.0,2070,2016,510,1055700,7212,0,4
+PROP-TX-1001,966 Lamar Blvd,South Lamar / Barton Hills,Single Family Home,30.230658,-97.805625,4,2.0,2624,2009,402,1054848,7540,0,4
+PROP-TX-1185,5109 Cedar Ln,Downtown / Central,Townhouse,30.28784,-97.727817,3,2.5,2051,1994,511,1048061,7294,320,5
+PROP-TX-1063,8830 Riverside Dr,Riverside Metro Area,Single Family Home,30.221267,-97.697201,4,2.0,2960,1987,354,1047840,8324,0,4
+PROP-TX-1100,3703 Guadalupe St,Domain Tech District,Single Family Home,30.418659,-97.701147,3,3.0,2527,2008,413,1043651,9343,0,4
+PROP-TX-1170,5046 Guadalupe St,Riverside Metro Area,Single Family Home,30.234846,-97.734472,3,3.0,3189,1985,326,1039614,9540,0,5
+PROP-TX-1027,1195 Barton Springs Rd,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.239763,-97.763333,6,3.0,2223,1986,467,1038141,9593,50,5
+PROP-TX-1244,607 Congress Ave,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.303092,-97.742822,4,3.0,3086,2015,336,1036896,7562,50,3
+PROP-TX-1132,2682 Oak St,East Austin Arts District,Single Family Home,30.283363,-97.72837,3,3.5,2031,2004,505,1025655,9080,0,5
+PROP-TX-1120,9549 Guadalupe St,Domain Tech District,Multi-Family (Duplex/Triplex),30.423796,-97.706286,6,3.0,3261,2007,312,1017432,7120,0,5
+PROP-TX-1211,9251 Riverside Dr,Domain Tech District,Multi-Family (Duplex/Triplex),30.414337,-97.737466,6,3.0,2572,1988,395,1015940,9492,0,4
+PROP-TX-1091,4580 Lamar Blvd,Downtown / Central,Townhouse,30.271944,-97.750584,3,2.5,1819,1999,556,1011364,7911,50,5
+PROP-TX-1130,201 Riverside Dr,South Congress / SoCo,Townhouse,30.237264,-97.754685,3,2.5,1744,2022,577,1006288,7157,0,4
+PROP-TX-1224,3607 Oak St,South Lamar / Barton Hills,Townhouse,30.269644,-97.768752,3,2.5,1886,2016,533,1005238,9230,0,2
+PROP-TX-1052,9772 Lamar Blvd,Westlake Hills Suburbs,Townhouse,30.315747,-97.80954,3,2.5,1499,2000,667,999833,7758,180,4
+PROP-TX-1217,8867 Lamar Blvd,South Congress / SoCo,Townhouse,30.266199,-97.765387,3,2.5,2067,1988,482,996294,7690,320,5
+PROP-TX-1069,4048 Lamar Blvd,Downtown / Central,Single Family Home,30.266503,-97.750261,3,3.0,1800,1986,553,995400,7576,0,5
+PROP-TX-1112,5721 Congress Ave,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.28353,-97.727951,6,3.0,3396,1999,292,991632,6849,50,3
+PROP-TX-1041,3905 Guadalupe St,Westlake Hills Suburbs,Townhouse,30.286435,-97.794816,3,2.5,1557,1986,636,990252,8170,50,5
+PROP-TX-1068,9992 Riverside Dr,Downtown / Central,Townhouse,30.276017,-97.762639,2,2.5,1828,2022,541,988948,7863,0,4
+PROP-TX-1105,4210 Barton Springs Rd,Downtown / Central,Single Family Home,30.286185,-97.74459,5,2.5,2052,1996,478,980856,8257,0,4
+PROP-TX-1011,6766 Congress Ave,East Austin Arts District,Single Family Home,30.257264,-97.713756,4,3.5,2002,2005,488,976976,8864,0,4
+PROP-TX-1004,4972 Barton Springs Rd,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.259481,-97.74266,6,4.0,2602,2013,375,975750,8200,50,4
+PROP-TX-1122,7926 Lamar Blvd,East Austin Arts District,Multi-Family (Duplex/Triplex),30.266406,-97.694312,4,3.0,2993,2004,326,975718,6989,320,3
+PROP-TX-1115,4279 Riverside Dr,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.215293,-97.718306,6,4.0,3996,1998,244,975024,6464,0,4
+PROP-TX-1050,976 Congress Ave,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.244061,-97.6995,4,3.0,3330,2022,290,965700,8444,0,4
+PROP-TX-1113,1207 Lamar Blvd,East Austin Arts District,Single Family Home,30.285344,-97.701319,4,2.5,2021,1988,473,955933,7206,0,4
+PROP-TX-1123,1311 Oak St,Westlake Hills Suburbs,Townhouse,30.314868,-97.812112,3,2.0,1477,2007,647,955619,8161,0,3
+PROP-TX-1174,3426 Riverside Dr,South Congress / SoCo,Townhouse,30.239383,-97.743035,3,2.0,1855,2019,514,953470,6545,0,4
+PROP-TX-1094,8202 Riverside Dr,Domain Tech District,Single Family Home,30.424408,-97.748213,4,3.0,2405,2022,391,940355,8463,0,5
+PROP-TX-1180,7813 Congress Ave,Domain Tech District,Townhouse,30.402381,-97.74997,3,2.0,2041,2016,454,926614,6599,50,3
+PROP-TX-1043,2553 Cedar Ln,Riverside Metro Area,Single Family Home,30.245888,-97.68726,5,3.5,3152,1999,291,917232,7650,0,4
+PROP-TX-1125,5131 Barton Springs Rd,South Congress / SoCo,Townhouse,30.230189,-97.745549,2,2.0,1704,2019,538,916752,6944,180,5
+PROP-TX-1002,682 Guadalupe St,South Lamar / Barton Hills,Single Family Home,30.257084,-97.783359,4,3.5,2322,2010,394,914868,6256,0,5
+PROP-TX-1128,117 Congress Ave,Downtown / Central,Townhouse,30.26784,-97.750142,3,2.0,1625,2024,561,911625,7950,320,4
+PROP-TX-1226,2734 Riverside Dr,North Loop / Hyde Park,Townhouse,30.287146,-97.735531,3,2.5,1817,2012,500,908500,7637,50,5
+PROP-TX-1134,6627 Guadalupe St,Domain Tech District,Multi-Family (Duplex/Triplex),30.38246,-97.735981,6,3.0,2929,2012,309,905061,6092,0,5
+PROP-TX-1166,1064 Congress Ave,South Lamar / Barton Hills,Townhouse,30.26976,-97.76422,2,2.0,1874,2014,482,903268,7374,50,5
+PROP-TX-1101,1729 Cedar Ln,Riverside Metro Area,Single Family Home,30.221543,-97.698483,3,3.5,2975,1985,302,898450,7117,0,4
+PROP-TX-1127,580 Guadalupe St,Downtown / Central,Townhouse,30.274536,-97.740082,3,2.5,1334,2015,670,893780,6914,0,3
+PROP-TX-1095,1751 Guadalupe St,Downtown / Central,Townhouse,30.273609,-97.720632,3,2.5,1342,2014,665,892430,8186,320,4
+PROP-TX-1118,9015 Oak St,East Austin Arts District,Single Family Home,30.268797,-97.717481,3,2.0,2541,2024,351,891891,5897,0,5
+PROP-TX-1155,8327 Riverside Dr,South Congress / SoCo,Multi-Family (Duplex/Triplex),30.26533,-97.776919,6,3.0,2229,2003,397,884913,7277,320,4
+PROP-TX-1177,3970 Barton Springs Rd,Riverside Metro Area,Single Family Home,30.252457,-97.693175,5,3.5,2861,1993,309,884049,7403,0,5
+PROP-TX-1009,7460 Riverside Dr,South Lamar / Barton Hills,Townhouse,30.265539,-97.769147,2,2.5,1669,2002,529,882901,7053,180,4
+PROP-TX-1173,9472 Cedar Ln,Domain Tech District,Single Family Home,30.412861,-97.748589,3,2.0,1959,2007,446,873714,7984,0,5
+PROP-TX-1024,3404 Riverside Dr,South Congress / SoCo,Townhouse,30.2475,-97.738765,2,2.5,1617,1999,540,873180,7382,0,4
+PROP-TX-1232,2363 Congress Ave,Downtown / Central,Townhouse,30.284162,-97.765407,3,2.0,1475,1989,590,870250,6516,320,4
+PROP-TX-1015,6115 Congress Ave,South Congress / SoCo,Townhouse,30.256425,-97.766712,3,2.0,1709,1991,506,864754,6150,0,5
+PROP-TX-1036,5480 Congress Ave,South Congress / SoCo,Townhouse,30.269283,-97.734907,2,2.5,1636,1999,527,862172,7462,180,4
+PROP-TX-1013,5195 Barton Springs Rd,North Loop / Hyde Park,Single Family Home,30.291507,-97.746563,3,3.5,2525,1999,341,861025,6971,0,4
+PROP-TX-1057,2044 Lamar Blvd,Westlake Hills Suburbs,Townhouse,30.276236,-97.790229,3,2.0,1493,2006,574,856982,7943,0,3
+PROP-TX-1164,5055 Oak St,Riverside Metro Area,Single Family Home,30.262381,-97.70817,4,3.5,2525,2011,339,855975,5636,0,4
+PROP-TX-1144,4177 Guadalupe St,Downtown / Central,Condo / Apartment,30.266027,-97.735644,3,1.5,1259,2001,677,852343,7078,0,4
+PROP-TX-1047,3674 Riverside Dr,South Congress / SoCo,Single Family Home,30.269932,-97.73404,3,3.0,1610,2002,528,850080,6226,0,3
+PROP-TX-1184,8450 Riverside Dr,East Austin Arts District,Townhouse,30.24333,-97.695763,3,2.0,2013,1998,422,849486,7693,180,4
+PROP-TX-1225,9568 Oak St,Riverside Metro Area,Single Family Home,30.221591,-97.711152,4,3.0,2899,1995,293,849407,5725,0,4
+PROP-TX-1054,1758 Riverside Dr,Domain Tech District,Townhouse,30.395663,-97.743556,3,2.0,1765,2010,481,848965,6293,0,4
+PROP-TX-1003,9444 Congress Ave,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.287685,-97.725448,6,4.0,2876,1998,289,831164,5745,0,3
+PROP-TX-1243,5856 Oak St,South Congress / SoCo,Townhouse,30.223339,-97.765401,3,2.5,1654,2015,502,830308,6375,0,4
+PROP-TX-1197,2291 Oak St,Westlake Hills Suburbs,Condo / Apartment,30.31857,-97.825349,3,1.5,1357,2000,607,823699,7301,0,4
+PROP-TX-1039,914 Congress Ave,Westlake Hills Suburbs,Condo / Apartment,30.302197,-97.823258,3,2.0,1152,1990,715,823680,7209,180,2
+PROP-TX-1008,3155 Lamar Blvd,Downtown / Central,Condo / Apartment,30.254353,-97.747787,2,1.5,1245,1997,657,817965,6755,320,3
+PROP-TX-1136,6528 Oak St,Downtown / Central,Condo / Apartment,30.263139,-97.758313,1,2.0,1078,2010,747,805266,5991,0,4
+PROP-TX-1087,3054 Guadalupe St,North Loop / Hyde Park,Townhouse,30.325908,-97.710549,3,2.5,1825,2021,440,803000,7106,180,4
+PROP-TX-1195,6657 Guadalupe St,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.242173,-97.709186,6,3.0,2909,1987,276,802884,7383,180,4
+PROP-TX-1146,4550 Guadalupe St,Riverside Metro Area,Single Family Home,30.227228,-97.706766,3,3.0,2747,2015,292,802124,6924,0,5
+PROP-TX-1019,4417 Congress Ave,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.234143,-97.725342,4,3.0,2726,2005,293,798718,6906,50,5
+PROP-TX-1172,479 Cedar Ln,Domain Tech District,Condo / Apartment,30.39768,-97.710318,2,1.0,1357,2014,577,782989,5516,0,4
+PROP-TX-1065,9739 Guadalupe St,Downtown / Central,Condo / Apartment,30.250505,-97.728491,2,2.0,1198,1997,653,782294,5526,320,5
+PROP-TX-1158,4151 Oak St,South Lamar / Barton Hills,Townhouse,30.242399,-97.771182,3,2.0,1867,1999,419,782273,6224,320,4
+PROP-TX-1037,2608 Guadalupe St,East Austin Arts District,Townhouse,30.261335,-97.733693,3,2.5,1815,1990,431,782265,5360,180,3
+PROP-TX-1194,6218 Congress Ave,South Congress / SoCo,Townhouse,30.22284,-97.773532,2,2.0,1554,2006,502,780108,5452,320,4
+PROP-TX-1028,7932 Congress Ave,North Loop / Hyde Park,Townhouse,30.302416,-97.726013,3,2.5,1798,2012,432,776736,5499,180,2
+PROP-TX-1007,1492 Barton Springs Rd,South Congress / SoCo,Townhouse,30.232949,-97.738744,3,2.5,1460,1988,532,776720,6629,0,4
+PROP-TX-1191,6216 Guadalupe St,Domain Tech District,Townhouse,30.406546,-97.721144,3,2.0,2024,2015,382,773168,6006,180,4
+PROP-TX-1200,4752 Congress Ave,North Loop / Hyde Park,Townhouse,30.3057,-97.704956,2,2.0,1768,2021,437,772616,6376,50,5
+PROP-TX-1198,7421 Riverside Dr,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.236477,-97.70405,6,4.0,2261,2000,340,768740,5907,0,3
+PROP-TX-1203,1217 Barton Springs Rd,Downtown / Central,Condo / Apartment,30.29027,-97.745602,1,1.0,1072,2023,716,767552,7173,320,4
+PROP-TX-1048,8635 Barton Springs Rd,South Lamar / Barton Hills,Multi-Family (Duplex/Triplex),30.240378,-97.782368,6,4.0,2310,2018,331,764610,5308,0,2
+PROP-TX-1237,3718 Oak St,Domain Tech District,Townhouse,30.405363,-97.722643,3,2.5,1678,2000,453,760134,6281,0,4
+PROP-TX-1010,2452 Barton Springs Rd,East Austin Arts District,Townhouse,30.238004,-97.722309,3,2.0,1603,2023,474,759822,4960,0,5
+PROP-TX-1086,6747 Guadalupe St,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.226044,-97.73239,4,4.0,3061,1998,247,756067,6994,0,5
+PROP-TX-1182,712 Riverside Dr,Westlake Hills Suburbs,Condo / Apartment,30.3105,-97.803233,2,2.0,988,2012,755,745940,5075,50,5
+PROP-TX-1051,9252 Lamar Blvd,Domain Tech District,Townhouse,30.41001,-97.716068,2,2.0,1818,1999,409,743562,5919,0,3
+PROP-TX-1187,4709 Lamar Blvd,Downtown / Central,Condo / Apartment,30.287168,-97.757354,3,1.0,1309,2022,561,734349,6505,320,4
+PROP-TX-1175,6327 Lamar Blvd,North Loop / Hyde Park,Townhouse,30.29095,-97.721194,2,2.5,1688,2021,432,729216,6084,0,3
+PROP-TX-1141,2914 Congress Ave,South Congress / SoCo,Condo / Apartment,30.222676,-97.767915,2,2.0,1333,2023,544,725152,5721,320,5
+PROP-TX-1152,1051 Congress Ave,Riverside Metro Area,Multi-Family (Duplex/Triplex),30.236396,-97.699232,6,3.0,2695,2024,269,724955,5505,320,5
+PROP-TX-1032,9517 Cedar Ln,South Lamar / Barton Hills,Townhouse,30.236946,-97.77813,3,2.0,1338,1989,541,723858,5243,180,5
+PROP-TX-1070,1938 Guadalupe St,North Loop / Hyde Park,Single Family Home,30.293629,-97.708155,4,3.0,2075,2013,345,715875,4909,0,5
+PROP-TX-1234,1464 Barton Springs Rd,North Loop / Hyde Park,Condo / Apartment,30.293477,-97.746542,2,2.0,1335,2022,534,712890,6267,180,4
+PROP-TX-1075,6008 Oak St,South Lamar / Barton Hills,Townhouse,30.270845,-97.765632,2,2.5,1759,1987,404,710636,5118,320,5
+PROP-TX-1231,3892 Lamar Blvd,North Loop / Hyde Park,Condo / Apartment,30.318934,-97.740553,3,2.0,1365,1985,519,708435,6231,0,3
+PROP-TX-1190,3278 Riverside Dr,Westlake Hills Suburbs,Condo / Apartment,30.282865,-97.80683,2,1.5,1148,2006,616,707168,6532,0,3
+PROP-TX-1209,6978 Guadalupe St,South Congress / SoCo,Single Family Home,30.269662,-97.767624,4,3.0,1678,2009,420,704760,5920,0,3
+PROP-TX-1081,9205 Guadalupe St,East Austin Arts District,Townhouse,30.258141,-97.72057,3,2.0,1729,2018,404,698516,4584,180,3
+PROP-TX-1149,7065 Barton Springs Rd,Riverside Metro Area,Single Family Home,30.259064,-97.69912,3,3.5,1815,1988,381,691515,5510,0,5
+PROP-TX-1103,3673 Riverside Dr,Riverside Metro Area,Townhouse,30.221556,-97.733571,3,2.0,2010,2007,341,685410,5384,0,4
+PROP-TX-1138,9327 Barton Springs Rd,Domain Tech District,Condo / Apartment,30.415317,-97.743816,2,1.5,1269,2013,539,683991,6428,320,3
+PROP-TX-1056,5222 Guadalupe St,South Congress / SoCo,Townhouse,30.260627,-97.734866,3,2.5,1359,2002,503,683577,5370,320,3
+PROP-TX-1058,7248 Oak St,North Loop / Hyde Park,Townhouse,30.316053,-97.738004,3,2.5,1469,1991,462,678678,4683,50,5
+PROP-TX-1176,4242 Lamar Blvd,South Lamar / Barton Hills,Condo / Apartment,30.256401,-97.790159,3,1.5,1315,2017,516,678540,5407,180,5
+PROP-TX-1060,5465 Congress Ave,South Lamar / Barton Hills,Townhouse,30.22921,-97.776061,3,2.5,1388,2008,488,677344,5014,0,2
+PROP-TX-1018,9676 Cedar Ln,South Congress / SoCo,Townhouse,30.264637,-97.742297,2,2.5,1310,1989,511,669410,5534,180,5
+PROP-TX-1135,698 Riverside Dr,North Loop / Hyde Park,Multi-Family (Duplex/Triplex),30.322124,-97.727073,6,3.0,2203,2002,303,667509,5298,180,4
+PROP-TX-1023,1367 Barton Springs Rd,North Loop / Hyde Park,Condo / Apartment,30.326957,-97.746135,3,2.0,1375,1995,485,666875,5736,50,3
+PROP-TX-1186,4038 Barton Springs Rd,Domain Tech District,Townhouse,30.413152,-97.729817,2,2.5,1529,2003,434,663586,5113,50,3
+PROP-TX-1207,6306 Cedar Ln,Riverside Metro Area,Townhouse,30.238862,-97.731356,3,2.5,1774,1990,374,663476,4409,320,3
+PROP-TX-1233,9702 Barton Springs Rd,North Loop / Hyde Park,Condo / Apartment,30.306043,-97.737415,2,1.0,1326,1996,495,656370,4849,180,4
+PROP-TX-1016,5328 Barton Springs Rd,Domain Tech District,Condo / Apartment,30.423445,-97.727111,2,1.5,1169,1988,561,655809,5528,50,3
+PROP-TX-1229,7252 Lamar Blvd,North Loop / Hyde Park,Townhouse,30.302006,-97.72944,3,2.0,1378,2013,474,653172,6142,50,4
+PROP-TX-1162,5472 Oak St,Westlake Hills Suburbs,Condo / Apartment,30.294596,-97.803652,2,1.0,994,2009,653,649082,6023,320,5
+PROP-TX-1030,6753 Cedar Ln,South Lamar / Barton Hills,Condo / Apartment,30.26476,-97.768124,2,1.5,1248,1986,518,646464,5277,0,3
+PROP-TX-1205,8473 Cedar Ln,Domain Tech District,Townhouse,30.400687,-97.744638,3,2.5,1384,1985,467,646328,5160,320,3
+PROP-TX-1090,7649 Congress Ave,South Congress / SoCo,Condo / Apartment,30.234298,-97.760581,3,1.0,1092,1997,586,639912,5958,320,3
+PROP-TX-1093,5548 Oak St,Domain Tech District,Single Family Home,30.381347,-97.739974,4,3.0,1806,1996,347,626682,5599,0,5
+PROP-TX-1210,6160 Guadalupe St,Riverside Metro Area,Townhouse,30.227488,-97.713845,3,2.5,1982,2020,316,626312,5629,0,5
+PROP-TX-1221,5195 Lamar Blvd,Domain Tech District,Condo / Apartment,30.397547,-97.730719,3,1.5,1116,2018,559,623844,4789,180,5
+PROP-TX-1025,7807 Oak St,South Congress / SoCo,Condo / Apartment,30.261476,-97.75021,2,1.5,1076,1985,575,618700,5316,50,3
+PROP-TX-1148,6537 Riverside Dr,Riverside Metro Area,Townhouse,30.241141,-97.6967,3,2.0,1636,2019,376,615136,5149,0,3
+PROP-TX-1239,1170 Riverside Dr,South Lamar / Barton Hills,Townhouse,30.233548,-97.803786,3,2.0,1379,2008,446,615034,5587,320,4
+PROP-TX-1206,8904 Oak St,Riverside Metro Area,Townhouse,30.246888,-97.729316,3,2.5,1846,2003,320,590720,4910,180,3
+PROP-TX-1108,653 Lamar Blvd,North Loop / Hyde Park,Townhouse,30.308227,-97.732254,3,2.0,1364,2007,433,590612,4477,320,5
+PROP-TX-1248,4246 Barton Springs Rd,Riverside Metro Area,Townhouse,30.233363,-97.715123,2,2.5,1854,1987,317,587718,5252,0,4
+PROP-TX-1215,8409 Riverside Dr,North Loop / Hyde Park,Condo / Apartment,30.298991,-97.708269,2,1.0,1092,1994,537,586404,4185,50,4
+PROP-TX-1121,6703 Congress Ave,Riverside Metro Area,Single Family Home,30.258347,-97.72905,3,3.5,2148,2005,271,582108,5249,0,4
+PROP-TX-1053,2035 Lamar Blvd,South Lamar / Barton Hills,Townhouse,30.252115,-97.779521,3,2.5,1355,2018,429,581295,4947,0,5
+PROP-TX-1150,694 Barton Springs Rd,South Lamar / Barton Hills,Condo / Apartment,30.261618,-97.780368,2,1.5,1124,2008,516,579984,4950,180,3
+PROP-TX-1099,4908 Riverside Dr,North Loop / Hyde Park,Condo / Apartment,30.32344,-97.709498,1,1.0,1030,2011,558,574740,4463,320,4
+PROP-TX-1157,9151 Congress Ave,Riverside Metro Area,Single Family Home,30.257708,-97.726277,3,2.5,1858,2003,307,570406,4717,0,5
+PROP-TX-1072,4420 Guadalupe St,North Loop / Hyde Park,Single Family Home,30.325722,-97.708325,3,2.0,1743,2023,324,564732,4338,0,5
+PROP-TX-1218,9403 Barton Springs Rd,Domain Tech District,Condo / Apartment,30.405997,-97.72277,1,1.0,1214,2020,464,563296,4802,50,5
+PROP-TX-1005,9777 Lamar Blvd,Downtown / Central,Condo / Apartment,30.242546,-97.741959,1,2.0,908,2007,617,560236,4843,320,2
+PROP-TX-1143,8548 Riverside Dr,North Loop / Hyde Park,Condo / Apartment,30.281737,-97.727757,2,1.5,1118,2002,493,551174,4039,0,5
+PROP-TX-1034,2104 Lamar Blvd,South Congress / SoCo,Condo / Apartment,30.267609,-97.747406,1,2.0,952,2001,571,543592,3931,0,4
+PROP-TX-1153,3551 Cedar Ln,Riverside Metro Area,Condo / Apartment,30.234269,-97.714591,2,2.0,1348,2014,403,543244,3795,0,3
+PROP-TX-1096,4973 Congress Ave,Domain Tech District,Single Family Home,30.394634,-97.731305,3,2.5,1603,1996,338,541814,4824,0,4
+PROP-TX-1124,5322 Oak St,East Austin Arts District,Condo / Apartment,30.248198,-97.728656,2,2.0,1267,2010,426,539742,4209,50,4
+PROP-TX-1208,8705 Cedar Ln,Riverside Metro Area,Townhouse,30.253891,-97.714838,3,2.5,1877,1994,285,534945,3853,50,4
+PROP-TX-1066,7346 Guadalupe St,North Loop / Hyde Park,Townhouse,30.321495,-97.719511,2,2.0,1335,2019,400,534000,4505,50,3
+PROP-TX-1188,4991 Oak St,Domain Tech District,Townhouse,30.418356,-97.717552,3,2.5,1429,1999,368,525872,4937,180,4
+PROP-TX-1097,8008 Barton Springs Rd,Domain Tech District,Condo / Apartment,30.412689,-97.718143,2,2.0,941,2015,556,523196,4044,0,5
+PROP-TX-1202,7842 Barton Springs Rd,Downtown / Central,Condo / Apartment,30.279767,-97.74848,2,1.0,711,2017,731,519741,3828,320,4
+PROP-TX-1116,9268 Congress Ave,East Austin Arts District,Condo / Apartment,30.238215,-97.700167,2,2.0,1071,2019,471,504441,3731,180,5
+PROP-TX-1042,5555 Barton Springs Rd,South Lamar / Barton Hills,Condo / Apartment,30.268674,-97.763584,2,2.0,919,2008,546,501774,3723,320,3
+PROP-TX-1109,9315 Congress Ave,Riverside Metro Area,Townhouse,30.230334,-97.698762,3,2.0,1429,2001,350,500150,3658,50,5
+PROP-TX-1049,1564 Barton Springs Rd,North Loop / Hyde Park,Condo / Apartment,30.320758,-97.74941,2,2.0,1156,1987,431,498236,4218,50,3
+PROP-TX-1055,9774 Oak St,Riverside Metro Area,Townhouse,30.246169,-97.697598,2,2.0,1644,1986,302,496488,4332,0,3
+PROP-TX-1026,8693 Oak St,North Loop / Hyde Park,Condo / Apartment,30.291696,-97.706281,2,2.0,1152,2000,428,493056,3589,0,5
+PROP-TX-1214,8093 Barton Springs Rd,South Congress / SoCo,Condo / Apartment,30.26138,-97.760015,2,1.5,929,2024,528,490512,3819,0,3
+PROP-TX-1223,9551 Barton Springs Rd,North Loop / Hyde Park,Condo / Apartment,30.292096,-97.703272,1,2.0,941,1988,509,478969,4430,0,4
+PROP-TX-1077,3535 Lamar Blvd,Westlake Hills Suburbs,Condo / Apartment,30.284547,-97.810083,3,1.0,743,2018,632,469576,4168,0,4
+PROP-TX-1059,9273 Riverside Dr,Riverside Metro Area,Condo / Apartment,30.254025,-97.716896,1,1.5,1097,2014,425,466225,3095,320,4
+PROP-TX-1092,4878 Oak St,North Loop / Hyde Park,Condo / Apartment,30.307948,-97.734045,2,2.0,1004,1989,456,457824,3173,0,3
+PROP-TX-1145,1302 Cedar Ln,South Lamar / Barton Hills,Condo / Apartment,30.271271,-97.799032,2,1.0,828,2000,550,455400,3436,0,5
+PROP-TX-1142,535 Lamar Blvd,Domain Tech District,Condo / Apartment,30.389326,-97.720461,2,2.0,868,1985,502,435736,3809,50,5
+PROP-TX-1137,7940 Oak St,South Congress / SoCo,Condo / Apartment,30.236906,-97.776456,2,1.0,809,2001,533,431197,3513,180,5
+PROP-TX-1084,8538 Cedar Ln,South Lamar / Barton Hills,Condo / Apartment,30.225307,-97.774537,1,1.5,704,2000,611,430144,2955,0,3
+PROP-TX-1193,6626 Congress Ave,South Congress / SoCo,Condo / Apartment,30.263164,-97.747326,1,1.5,721,2023,591,426111,3449,0,3
+PROP-TX-1189,1619 Riverside Dr,East Austin Arts District,Condo / Apartment,30.248853,-97.699273,2,1.0,714,2008,586,418404,2890,320,5
+PROP-TX-1147,1267 Oak St,Riverside Metro Area,Condo / Apartment,30.239122,-97.694381,2,1.0,1149,2023,359,412491,3414,320,4
+PROP-TX-1082,3879 Barton Springs Rd,South Congress / SoCo,Condo / Apartment,30.23894,-97.742086,3,1.0,797,2012,505,402485,3347,0,5
+PROP-TX-1119,3815 Guadalupe St,East Austin Arts District,Condo / Apartment,30.258111,-97.742778,3,2.0,735,1994,540,396900,3111,0,4
+PROP-TX-1085,4804 Congress Ave,East Austin Arts District,Condo / Apartment,30.259172,-97.736483,2,1.0,818,1994,436,356648,3212,0,4
+PROP-TX-1156,2823 Cedar Ln,South Lamar / Barton Hills,Condo / Apartment,30.248193,-97.80989,1,1.0,753,1985,473,356169,2451,180,4
+PROP-TX-1192,2906 Congress Ave,South Lamar / Barton Hills,Condo / Apartment,30.235482,-97.766552,2,1.0,707,2010,488,345016,2927,0,5
+PROP-TX-1159,8317 Congress Ave,Riverside Metro Area,Condo / Apartment,30.216023,-97.706685,2,1.0,753,1998,444,334332,2521,0,3
+PROP-TX-1080,2826 Oak St,North Loop / Hyde Park,Condo / Apartment,30.28511,-97.730607,3,1.5,791,1996,415,328265,3091,180,3
+PROP-TX-1021,4041 Oak St,Riverside Metro Area,Condo / Apartment,30.256947,-97.705587,3,2.0,729,2011,450,328050,2740,50,3
+PROP-TX-1236,6316 Lamar Blvd,North Loop / Hyde Park,Condo / Apartment,30.287041,-97.748633,1,1.5,696,1987,411,286056,2278,180,5
+PROP-TX-1196,7551 Cedar Ln,Riverside Metro Area,Condo / Apartment,30.225249,-97.72924,2,2.0,733,2016,389,285137,2470,180,3
+PROP-TX-1117,6208 Congress Ave,Riverside Metro Area,Condo / Apartment,30.215021,-97.71597,3,1.5,736,1985,377,277472,2519,50,4
+PROP-TX-1046,7298 Guadalupe St,Riverside Metro Area,Condo / Apartment,30.22346,-97.723266,3,1.5,728,2002,353,256984,2239,0,4
